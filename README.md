@@ -1,2 +1,5 @@
 # hello-world
-Practicing for front end developing
+
+Hello Everyone, Mario Here!
+
+Im using this platform to Practicing for front end developing.
