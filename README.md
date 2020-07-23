@@ -2,4 +2,4 @@
 
 Hello Everyone, Mario Here!
 
-Im using this platform to Practicing for front end developing.
+Im using this platform to Practice for front end developing.
